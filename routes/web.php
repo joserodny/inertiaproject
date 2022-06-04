@@ -15,7 +15,17 @@ use Inertia\Inertia;
 */
 
 Route::get('/', function () {
-    return Inertia::render('Welcome', [
-        'name' => 'jose rodny',
-    ]);
+    return Inertia::render('Home');
+});
+
+Route::get('/about', function () {
+    return Inertia::render('User');
+});
+
+Route::get('/settings', function () {
+    return Inertia::render('Settings');
+});
+
+Route::post('/logout', function () {
+
 });
