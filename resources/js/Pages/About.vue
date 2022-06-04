@@ -6,12 +6,18 @@
      
       <div class="flex grid place-items-center h-screen dark:bg-black">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-3 w-5/6 h-96 ">
-          <div>
-           <h1 class="text-4xl font-bold leading-tight mb-5 capitalize">   <p class="text-4xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12 dark:text-white">Jose Rodny Sibugan</p>
-               </h1>
+        <div>
+          <span class="text-1xl md:text-1xl xl:text-2xl font-bold tracking-tight mb-12 dark:text-yellow-300">LET ME INTRODUCE MYSELF</span>
+          <div class="grid grid-flow-col">
+          <div class="sm:col-span-1"><span class="text-1xl text-yellow-400">I am, </span></div>
+          <div class="sm:col-span-4"> <h1 class="text-4xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12 dark:text-white"> Jose Rodny Sibugan</h1></div>
+          </div>
+         
+         
+            
                 <p class="text-xl dark:text-white"> 
                 An aspiring web developer and application developer.
-                This website contains everything about my application creation and web development. 
+                This website contains about my application creation and web development. 
                 I am the person who loves to explore things especially when it comes to technology
                 </p>
 
@@ -29,7 +35,7 @@
               </div>
 
               <div>
-                <button id="github" class="bg-white transform hover:-translate-y-3  border-2 w-12 h-12 rounded-full duration-500 text-black border-black hover:bg-black dark:hover:bg-gray-800 dark:hover:text-white hover:text-white text-2xl">
+                <button id="github" class="bg-white transform hover:-translate-y-3  border-2 w-12 h-12 rounded-full duration-500 text-black border-black  dark:border-stone-700 hover:bg-black dark:hover:bg-gray-800 dark:hover:text-white hover:text-white text-2xl">
                   <a href="https://github.com/joserodny"><i class="fab fa-github"></i></a>
                   </button>
               </div>  

@@ -3,7 +3,7 @@
     <div :class="{'dark': !isOpen}">
       <Nav />
         <!-- Section: Design Block -->
-        <section class="bg-white dark:bg-black min-h-screen">
+        <section class=" bg-white dark:bg-black min-h-screen">
          
             <div class="px-6 py-12 md:px-12 text-gray-800 text-center lg:text-left ">
                 <div class="container mx-auto xl:px-32">
