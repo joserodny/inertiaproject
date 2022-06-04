@@ -19,10 +19,10 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    return Inertia::render('User');
+    return Inertia::render('About');
 });
 
-Route::get('/settings', function () {
+Route::get('/project', function () {
     return Inertia::render('Settings');
 });
 
