@@ -4,7 +4,7 @@ import { createApp, h } from 'vue'
 import { createInertiaApp } from '@inertiajs/inertia-vue3'
 import { InertiaProgress } from '@inertiajs/progress'
 import mitt from 'mitt';
-
+import * as LottiePlayer from "@lottiefiles/lottie-player";
 const emitter = mitt();
 
 
@@ -17,6 +17,5 @@ createInertiaApp({
       app.mount(el)
   },
 });
-
 
 InertiaProgress.init();
