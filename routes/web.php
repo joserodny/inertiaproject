@@ -23,9 +23,5 @@ Route::get('/about', function () {
 });
 
 Route::get('/project', function () {
-    return Inertia::render('Settings');
-});
-
-Route::post('/logout', function () {
-
+    return Inertia::render('Projects');
 });
