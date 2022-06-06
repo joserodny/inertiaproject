@@ -55,6 +55,14 @@ export default {
     return {
       isOpen: false,
       projects: [{
+          img: 'https://raw.githubusercontent.com/joserodny/inertiaproject/072a39b9f2a3ec47f9039caac47ea1576445e56b/latestport.png',
+          title: 'Latest Portfolio',
+          desc: 'Just learning new things',
+          url: 'https://github.com/joserodny/inertiaproject',
+          stack: 'Laravel, Vue, Inertia, Tailwind',
+         
+      },
+      {
           img: 'https://user-images.githubusercontent.com/41980624/149607521-60679f20-0b1a-4bf5-8a07-60d52b2f5d5c.png',
           title: 'EVACUATION MONITORING',
           desc: 'This system aims to solve the problem in getting the total numbers of evacuees.',
@@ -65,7 +73,7 @@ export default {
           img: 'https://joserodnys.netlify.app/img/portfolio/cap1.png',
           title: 'OLD EVACUATION MONITORING',
           desc: 'Capstone Project /private repo',
-          stack: 'Php, Html, Css, Javascript, Mysql',
+          stack: 'Php, Html, Bootstrap, Javascript, Mysql',
          
       },
       {
@@ -85,11 +93,11 @@ export default {
          
       },
       {
-          img: 'https://raw.githubusercontent.com/joserodny/inertiaproject/072a39b9f2a3ec47f9039caac47ea1576445e56b/latestport.png',
-          title: 'Latest Portfolio',
-          desc: 'Just learning new things',
-          url: 'https://github.com/joserodny/inertiaproject',
-          stack: 'Laravel, Vue, Inertia, Tailwind',
+          img: 'https://github.com/joserodny/winejouse/blob/main/winejouse.png?raw=true',
+          title: 'Wine Jouse',
+          desc: 'wine ecommerce store app',
+          url: 'https://github.com/joserodny/winejouse',
+          stack: 'Php, Mysql, Bootstrap',
          
       }, ]
     };

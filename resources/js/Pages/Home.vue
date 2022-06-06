@@ -13,11 +13,11 @@
                             <h1 class="text-4xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12 dark:text-white">Rodny here!<br /><span class="md:text-3xl text-blue-600">I'm a Web Developer</span></h1>
                             <Link class="inline-block px-7 py-3 mr-2 bg-blue-600  text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="/project" role="button">project</Link>
                          </div>
-                         <div class="flex grid grid-rows-3 grid-flow-col gap-4">
+                         <div class="flex grid grid-rows-3 grid-flow-col gap-4 ">
                             <div class="row-span-3 ..."></div>
                             <div class="col-span-2 h-32  grid place-items-center h-screen">
                             <h1 class="text-2xl md:text-3xl xl:text-2xl font-bold tracking-tight mb-12 dark:text-white">TECHNOLOGY & TOOLS</h1> 
-                             <div class="grid grid-cols-7 gap-2 mb-8">
+                             <div class="grid grid-cols-7 gap-4 mb-8 md:gap-8 sm:gap-8">
                             <div>
                               <button class="bg-orange-400 transform hover:-translate-y-3  border-2 w-12 h-12 rounded-full duration-500 text-white border-orange-500  hover:bg-orange-300 hover:text-white text-2xl">
                                 <i class="fab fa-html5"></i>
