@@ -99,7 +99,15 @@ export default {
           url: 'https://github.com/joserodny/winejouse',
           stack: 'Php, Mysql, Bootstrap',
          
-      }, ]
+      }, 
+      {
+          img: 'https://github.com/joserodny/TechJob/blob/main/techjob.png?raw=true',
+          title: 'Techjob',
+          desc: 'An app for listing Laravel gigs/jobs.',
+          url: 'http://techjobads.herokuapp.com/',
+          stack: 'Laravel, Tailwind, Mysql',
+         
+      },]
     };
   },
   mounted() { 
