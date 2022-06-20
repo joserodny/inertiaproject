@@ -107,7 +107,7 @@ export default {
           url: 'http://techjobads.herokuapp.com/',
           stack: 'Laravel, Tailwind, Mysql',
          
-      },]
+      }]
     };
   },
   mounted() { 
