@@ -7,8 +7,8 @@
       <meta property="og:url" content="https://joserodny.herokuapp.com/">
       <meta property="og:title" content="Jose rodny Sibugan portfolio">
       <meta property="og:image" content="https://github.com/joserodny/inertiaproject/blob/main/latestport.png?raw=true">
-      <link href="{{ mix('/css/app.css') }}" rel="stylesheet" />
-      <script src="{{ mix('/js/app.js') }}" defer></script>
+      @vite('resources/css/app.css')
+      @vite('resources/js/app.js')
       <script src="https://unpkg.com/flowbite@1.4.7/dist/flowbite.js"></script>
     @inertiaHead
   </head>
