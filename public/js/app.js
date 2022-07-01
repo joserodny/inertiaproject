@@ -21980,7 +21980,7 @@ var _hoisted_2 = {
   "class": "grid grid-cols-1 md:grid-cols-2 gap-3 w-5/6 h-96"
 };
 
-var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div><span class=\"text-1xl md:text-1xl xl:text-2xl font-bold tracking-tight mb-12 dark:text-yellow-300\">LET ME INTRODUCE MYSELF</span><div class=\"grid grid-flow-col\"><div class=\"sm:col-span-1\"><span class=\"text-1xl text-yellow-400\">I am, </span></div><div class=\"sm:col-span-4\"><h1 class=\"text-4xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12 dark:text-white\"> Jose Rodny Sibugan</h1></div></div><p class=\"text-xl dark:text-white\"> An aspiring web developer and application developer. This website contains about my application creation and web development. I am the person who loves to explore things especially when it comes to technology </p><div class=\"py-5\"><a href=\"https://raw.githubusercontent.com/joserodny/joserodny/main/Jose%20Rodny%20S.%20Sibugan.pdf\" class=\"text-white rounded-full py-2 px-5 text-lg font-semibold bg-purple-600 inline-block border border-purple-600 mr-3\">RESUME</a></div></div>", 1);
+var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div><span class=\"text-1xl md:text-1xl xl:text-2xl font-bold tracking-tight mb-12 dark:text-yellow-300\">LET ME INTRODUCE MYSELF</span><div class=\"grid grid-flow-col\"><div class=\"sm:col-span-1\"><span class=\"text-1xl text-yellow-400\">I am, </span></div><div class=\"sm:col-span-4\"><h1 class=\"text-4xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12 dark:text-white\"> Jose Rodny Sibugan</h1></div></div><p class=\"text-xl dark:text-white\"> An aspiring web developer and application developer. This website contains about my application creation and web development. I am the person who loves to explore things especially when it comes to technology </p><div class=\"py-5\"><button class=\"transform hover:-translate-y-3 duration-500 text-red-700\"><a href=\"https://raw.githubusercontent.com/joserodny/joserodny/main/Jose%20Rodny%20S.%20Sibugan.pdf\" class=\"text-white rounded-full py-2 px-5 text-lg font-semibold bg-purple-600 inline-block border border-purple-600 mr-3\">RESUME</a></button></div></div>", 1);
 
 var _hoisted_4 = {
   "class": "grid place-items-center grid-cols-1 gap-6"
@@ -22063,15 +22063,19 @@ var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementV
 /* HOISTED */
 );
 
-var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("project");
+var _hoisted_8 = {
+  "class": "transform hover:-translate-y-3 duration-500 text-red-700"
+};
 
-var _hoisted_9 = {
+var _hoisted_9 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("project");
+
+var _hoisted_10 = {
   "class": "flex grid grid-rows-3 grid-flow-col gap-4"
 };
 
-var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"row-span-3 ...\"></div><div class=\"col-span-2 h-32 grid place-items-center h-screen\"><h1 class=\"text-2xl md:text-3xl xl:text-2xl font-bold tracking-tight mb-12 dark:text-white\">TECHNOLOGY &amp; TOOLS</h1><div class=\"grid grid-cols-7 gap-4 mb-8 md:gap-8 sm:gap-8\"><div><button class=\"bg-orange-400 transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-white border-orange-500 hover:bg-orange-300 hover:text-white text-2xl\"><i class=\"fab fa-html5\"></i></button></div><div><button class=\"bg-blue-600 transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-white border-sky-600 dark:border-stone-700 hover:bg-blue-300 dark:hover:bg-blue-300 dark:hover:text-white hover:text-white text-2xl\"><i class=\"fab fa-css3-alt\"></i></button></div><div><button class=\"bg-white transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-black border-black dark:border-stone-700 hover:bg-black dark:hover:bg-gray-800 dark:hover:text-white hover:text-white text-2xl\"><i class=\"fab fa-github\"></i></button></div><div><button class=\"bg-gray-600 transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-white border-black dark:border-stone-700 hover:bg-black dark:hover:bg-gray-800 dark:hover:text-white hover:text-white text-2xl\"><i class=\"fab fa-php\"></i></button></div><div><button class=\"bg-white transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-red-700 border-red-400 dark:border-red-400 hover:bg-black dark:hover:bg-gray-800 dark:hover:text-red-700 hover:text-red-700 text-2xl\"><i class=\"fab fa-laravel\"></i></button></div><div><button class=\"bg-white transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-black border-black dark:border-stone-700 hover:bg-black dark:hover:bg-gray-800 dark:hover:text-white hover:text-white text-2xl\"><i class=\"fas fa-database\"></i></button></div><div><button class=\"bg-yellow-400 text-white transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 border-yellow-300 dark:border-yellow-300 hover:bg-yellow-200 dark:hover:bg-yellow-500 dark:hover:text-white hover:text-white text-2xl\"><i class=\"fab fa-js-square\"></i></button></div></div></div>", 2);
+var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"row-span-3 ...\"></div><div class=\"col-span-2 h-32 grid place-items-center h-screen\"><h1 class=\"text-2xl md:text-3xl xl:text-2xl font-bold tracking-tight mb-12 dark:text-white\">TECHNOLOGY &amp; TOOLS</h1><div class=\"grid grid-cols-7 gap-4 mb-8 md:gap-8 sm:gap-8\"><div><button class=\"bg-orange-400 transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-white border-orange-500 hover:bg-orange-300 hover:text-white text-2xl\"><i class=\"fab fa-html5\"></i></button></div><div><button class=\"bg-blue-600 transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-white border-sky-600 dark:border-stone-700 hover:bg-blue-300 dark:hover:bg-blue-300 dark:hover:text-white hover:text-white text-2xl\"><i class=\"fab fa-css3-alt\"></i></button></div><div><button class=\"bg-white transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-black border-black dark:border-stone-700 hover:bg-black dark:hover:bg-gray-800 dark:hover:text-white hover:text-white text-2xl\"><i class=\"fab fa-github\"></i></button></div><div><button class=\"bg-gray-600 transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-white border-black dark:border-stone-700 hover:bg-black dark:hover:bg-gray-800 dark:hover:text-white hover:text-white text-2xl\"><i class=\"fab fa-php\"></i></button></div><div><button class=\"bg-white transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-red-700 border-red-400 dark:border-red-400 hover:bg-black dark:hover:bg-gray-800 dark:hover:text-red-700 hover:text-red-700 text-2xl\"><i class=\"fab fa-laravel\"></i></button></div><div><button class=\"bg-white transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 text-black border-black dark:border-stone-700 hover:bg-black dark:hover:bg-gray-800 dark:hover:text-white hover:text-white text-2xl\"><i class=\"fas fa-database\"></i></button></div><div><button class=\"bg-yellow-400 text-white transform hover:-translate-y-3 border-2 w-12 h-12 rounded-full duration-500 border-yellow-300 dark:border-yellow-300 hover:bg-yellow-200 dark:hover:bg-yellow-500 dark:hover:text-white hover:text-white text-2xl\"><i class=\"fab fa-js-square\"></i></button></div></div></div>", 2);
 
-var _hoisted_12 = {
+var _hoisted_13 = {
   "class": "row-span-2 col-span-2 ..."
 };
 function render(_ctx, _cache, $props, $setup, $data, $options) {
@@ -22085,20 +22089,20 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)({
       'dark': !$data.isOpen
     })
-  }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Nav), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Section: Design Block "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [_hoisted_6, _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
-    "class": "inline-block px-7 py-3 mr-2 bg-blue-600 text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out",
+  }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Nav), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Section: Design Block "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [_hoisted_6, _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", _hoisted_8, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
+    "class": "px-7 py-3 mr-2 bg-blue-600 text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out",
     "data-mdb-ripple": "true",
     "data-mdb-ripple-color": "light",
     href: "/project",
     role: "button"
   }, {
     "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
-      return [_hoisted_8];
+      return [_hoisted_9];
     }),
     _: 1
     /* STABLE */
 
-  })]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [_hoisted_10, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_lottie_player, {
+  })])]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [_hoisted_11, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_lottie_player, {
     "class": "hidden md:block",
     src: "https://assets7.lottiefiles.com/private_files/lf30_WdTEui.json",
     background: "transparent",
@@ -22443,7 +22447,7 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 ___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://use.fontawesome.com/releases/v5.15.4/css/all.css);"]);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 

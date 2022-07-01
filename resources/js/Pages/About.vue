@@ -22,7 +22,9 @@
                 </p>
 
                 <div class="py-5">
-                    <a href="https://raw.githubusercontent.com/joserodny/joserodny/main/Jose%20Rodny%20S.%20Sibugan.pdf" class="text-white rounded-full py-2 px-5 text-lg font-semibold bg-purple-600 inline-block border border-purple-600 mr-3">RESUME</a>  
+                 <button class=" transform hover:-translate-y-3  duration-500 text-red-700 ">
+                       <a href="https://raw.githubusercontent.com/joserodny/joserodny/main/Jose%20Rodny%20S.%20Sibugan.pdf" class="text-white rounded-full py-2 px-5 text-lg font-semibold bg-purple-600 inline-block border border-purple-600 mr-3">RESUME</a>  
+                  </button>
                 </div>
           </div>
           
