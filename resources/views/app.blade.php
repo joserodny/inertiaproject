@@ -6,6 +6,7 @@
 
       <meta property="og:type" content="website">
       <meta property="og:url" content="https://joserodny.herokuapp.com/">
+<<<<<<< HEAD
       <meta property="og:title" content="jose rodny Sibugan portfolio">
       <meta property="og:image" content="https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80">
 
@@ -29,6 +30,12 @@
         
       </style>
       <script src="{{ mix('/js/app.js') }}" defer></script>
+=======
+      <meta property="og:title" content="Jose rodny Sibugan portfolio">
+      <meta property="og:image" content="https://github.com/joserodny/inertiaproject/blob/main/latestport.png?raw=true">
+      @vite('resources/css/app.css')
+      @vite('resources/js/app.js')
+>>>>>>> 3e18206e959c5e0704530b05685668fe0ed71731
       <script src="https://unpkg.com/flowbite@1.4.7/dist/flowbite.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/particlesjs/2.2.3/particles.min.js"></script>
       <script>
