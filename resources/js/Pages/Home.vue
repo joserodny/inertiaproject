@@ -11,8 +11,10 @@
                         <div class="mt-12 lg:mt-0">
                         <h3 class="text-1xl md:text-2xl dark:text-white">Hi! <span class="wave">👋</span></h3>
                             <h1 class="text-4xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12 dark:text-white">Rodny here!<br /><span class="md:text-3xl text-blue-600">I'm a Web Developer</span></h1>
-                            <Link class="inline-block px-7 py-3 mr-2 bg-blue-600  text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="/project" role="button">project</Link>
-                         </div>
+                              <button class=" transform hover:-translate-y-3  duration-500 text-red-700 ">
+                                     <Link class=" px-7 py-3 mr-2 bg-blue-600  text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="/project" role="button">project</Link>
+                              </button>
+                            </div>
                          <div class="flex grid grid-rows-3 grid-flow-col gap-4 ">
                             <div class="row-span-3 ..."></div>
                             <div class="col-span-2 h-32  grid place-items-center h-screen">
