@@ -8,11 +8,9 @@
         <!-- Section: Design Block -->
         
         <section class=" bg-white dark:bg-black min-h-screen ">
-      
             <div class="px-6 py-12 md:px-12 text-gray-800 text-center lg:text-left  ">
                 <div class="container mx-auto xl:px-32">
-                    <div class="grid lg:grid-cols-2 gap-12 flex items-center">
-                         
+                    <div class="grid lg:grid-cols-2 gap-12 flex items-center">     
                         <div class=" mt-12 lg:mt-0">
                         <h3 class="text-1xl md:text-2xl dark:text-white">Hi! <span class="wave">👋</span></h3>
                             <h1 class="text-4xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12 dark:text-white">Rodny here!<br /><span class="md:text-3xl text-blue-600">I'm a Web Developer</span></h1>
